@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './timer.scss';
 import { useEffect, useState } from 'react';
 
@@ -59,6 +59,6 @@ const Timer = () => {
       </div>
     </div>
   )
-}
+};
 
 export default Timer;
