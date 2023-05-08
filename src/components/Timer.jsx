@@ -26,7 +26,7 @@ const Timer = () => {
       }
       },1000)
     }
-      return ()=> clearInterval(time)
+      return ()=> clearInterval(time);
     });
   
   const reset=()=>{
