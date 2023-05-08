@@ -42,8 +42,8 @@ const Timer = () => {
   // };
   
   const start=()=>{
-    setIsActive(!isActive)
-    setSec(sec+1)
+    setIsActive(!isActive);
+    setSec(sec+1);
   };
 
   return (
