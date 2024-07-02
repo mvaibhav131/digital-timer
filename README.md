@@ -1,4 +1,4 @@
-# clone the above repo
+# clone the above repository
 
 
 ## Install dependency using `npm install`
